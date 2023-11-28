@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterCdkDotnet", "BetterCdkDotnet\BetterCdkDotnet.csproj", "{F977CD9A-6671-491C-9232-971E374DA9C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{7C0BED01-E14C-4AD5-82A6-244B4037483F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{F977CD9A-6671-491C-9232-971E374DA9C3}.Release|x64.Build.0 = Release|Any CPU
 		{F977CD9A-6671-491C-9232-971E374DA9C3}.Release|x86.ActiveCfg = Release|Any CPU
 		{F977CD9A-6671-491C-9232-971E374DA9C3}.Release|x86.Build.0 = Release|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Debug|x64.Build.0 = Debug|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Debug|x86.Build.0 = Debug|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Release|x64.Build.0 = Release|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C0BED01-E14C-4AD5-82A6-244B4037483F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
